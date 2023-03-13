@@ -1,4 +1,4 @@
-module hcache
+module github.com/cold-steam/hcache
 
 go 1.14
 
