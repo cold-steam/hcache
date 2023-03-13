@@ -26,7 +26,7 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	"hcache/pkg/utils"
+	"github.com/cold-steam/hcache/pkg/utils"
 	"log"
 	"os"
 	"path"
